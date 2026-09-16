@@ -6,6 +6,7 @@
 
 | 버전 | 변경 내용 | 배포 형태 |
 |---|---|---|
+| [1.25.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.25.0) | 인게임 진행도 간편 설정, 리소스팩 자동 준비·재접속 적용 | 설치파일 · 사용법 ZIP |
 | [1.24.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.24.0) | 기본 마크 인게임 진행도 위치·크기·두께 조절, 전용 리소스팩 준비 | 설치파일 · 사용법 ZIP |
 | [1.23.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.23.0) | OBS 진행도 드래그 배치·글자 크기와 두께 조절 | 설치파일 · 사용법 ZIP |
 | [1.22.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.22.0) | 텍스트 진행도·색 설정, OBS 집계 소스, 지금 업데이트 | 설치파일 · 사용법 ZIP |
