@@ -1,11 +1,13 @@
 # 버전별 다운로드와 변경 기록
 
-처음 설치할 때는 [최신 1.20.0 버전](https://github.com/kms970/onair-roulette-releases/releases/latest)을 받아 주세요.
+처음 설치할 때는 [최신 버전](https://github.com/kms970/onair-roulette-releases/releases/latest)을 받아 주세요.
 
-보관 중이던 배포 파일 20개 버전을 버전별 릴리스로 정리했어요. 각 링크에 변경 내용과 그 버전 당시 사용법이 있어요.
+배포 파일을 버전별 릴리스로 정리했어요. 각 링크에 변경 내용과 그 버전 당시 사용법이 있어요.
 
 | 버전 | 변경 내용 | 배포 형태 |
 |---|---|---|
+| [1.22.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.22.0) | 텍스트 진행도·색 설정, OBS 집계 소스, 지금 업데이트 | 설치파일 · 사용법 ZIP |
+| [1.21.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.21.0) | 점프맵 20개 목록과 인게임 텍스트 룰렛 | 설치파일 · 사용법 ZIP |
 | [1.20.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.20.0) | 진행도 옆 실드 개수 표시 | 설치파일 · 사용법 ZIP |
 | [1.19.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.19.0) | 엔더진주 1개 지급 | 설치파일 · 사용법 ZIP |
 | [1.18.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.18.0) | 운영자 실드 수동 지급 | 설치파일 · 사용법 ZIP |
