@@ -6,6 +6,7 @@
 
 | 버전 | 변경 내용 | 배포 형태 |
 |---|---|---|
+| [1.25.2](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.25.2) | 종류 번호 없는 투네이션 텍스트 후원 복구, 사용자 동의 후 다운로드·설치 | 설치파일 · 사용법 ZIP |
 | [1.25.1](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.25.1) | 진행도·실드 위치 유지, 투네이션 텍스트 후원만 자동 연결 | 설치파일 · 사용법 ZIP |
 | [1.25.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.25.0) | 인게임 진행도 간편 설정, 리소스팩 자동 준비·재접속 적용 | 설치파일 · 사용법 ZIP |
 | [1.24.0](https://github.com/kms970/onair-roulette-releases/releases/tag/v1.24.0) | 기본 마크 인게임 진행도 위치·크기·두께 조절, 전용 리소스팩 준비 | 설치파일 · 사용법 ZIP |
